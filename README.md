@@ -29,7 +29,7 @@ In This project i learned about Media quries for different different devices.
 while making site fit in all types of screens i took help from MDN docs on css media quries.
 ## Documentation
 
-[Project-Link](https://apple-india-1.netlify.app)
+[Project-Link is not Working (Error from netlify)](https://apple-india-1.netlify.app)
 
 
 ## Feedback
