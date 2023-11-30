@@ -2,7 +2,7 @@
 # Apple-India 2022 Landing page Clone
 
 
-[Project-Link is not Working, (Error from netlify)](https://apple-india-1.netlify.app)
+[Project-Link is not Working (Error from netlify)](https://apple-india-1.netlify.app)
 
 This project is about apple india. this is clone of landing page 2022.
 
